@@ -40,8 +40,7 @@ OpenAI:
 - ​        https://github.com/openai/baselines
 - ​		https://github.com/carpedm20/deep-rl-tensorflow
 
-Nature 2015 Human-level control through deep reinforcement learning:       
-        https://github.com/devsisters/DQN-tensorflow.git [web site](https://sites.google.com/a/deepmind.com/dqn/)
+Nature 2015 Human-level control through deep reinforcement learning:  [code]( https://github.com/devsisters/DQN-tensorflow.git) [web site](https://sites.google.com/a/deepmind.com/dqn/)
 
 DRL that matters: https://git.io/vFHnf
 
